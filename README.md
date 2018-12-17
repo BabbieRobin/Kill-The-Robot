@@ -9,6 +9,8 @@ AppStore
 Already on the shelf, download address: https://itunes.apple.com/cn/app/kill-the-robot/id1445106302?mt=8
 
 ![Image text](https://github.com/BabbieRobin/Kill-The-Robot/blob/master/0x0ss.jpg)
+![Image text](https://github.com/BabbieRobin/Kill-The-Robot/blob/master/0x0ss%20(3).jpg)
+
  
 Created by Babbie Robin
 Copyright n706kt@yeah.net. all rights reserved.
