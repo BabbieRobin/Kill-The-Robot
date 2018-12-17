@@ -1,4 +1,6 @@
 # Kill-The-Robot
+This link is an APPSTORE dedicated technical service support website.
+
 This is a war simulation entertainment.
 In the APP you can arm your robot and kill your opponent! Enjoy the joy of victory!
 
