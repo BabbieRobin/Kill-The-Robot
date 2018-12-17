@@ -1,5 +1,5 @@
 # Kill-The-Robot
-This link is an App Store dedicated technical service support website.
+This link is an App Store dedicated technical service support website.If you have any questions, please contact: n706kt@yeah.net.
 
 This is a war simulation entertainment.
 In the APP you can arm your robot and kill your opponent! Enjoy the joy of victory!
